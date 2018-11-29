@@ -1,4 +1,4 @@
 # theVenue
 Venue for musical event webpage (REACT JS)
 
-[Demo](http://understood-toy.surge.sh) 
+[Demo](http://understood-toy.surge.sh){:target="_blank"} 
